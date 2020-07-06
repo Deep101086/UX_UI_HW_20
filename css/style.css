@@ -1,0 +1,26 @@
+.grad1 {background-image: linear-gradient(white, #F49587, white);}
+
+/* Navigation bar */
+  .navbar-brand {margin-left: 50px; padding-top: 20px;}
+  .customNav a {font-family: "Roboto Slab" !important; font-size: 32px !important; letter-spacing: 6pt !important}
+  .navbar-nav {margin-left: 30px; margin-right: 30px;}
+  .nav-item {margin: 0px 15px; font-family: "Roboto Slab"; font-size: 15px;}
+ 
+/*-- Bootstrap 4’s col system */
+  .content {margin-top: 100px; margin-bottom: 100px;}
+  .row {margin-top: 25px; margin-left: 50px; margin-right: 50px;} 
+  .ImageContainer {padding-right: 50px; }
+  .ImageContainer img {width: 100%;}
+  h1 {font-family: "Roboto Slab"; font-size: 32px; letter-spacing: 2pt; margin-bottom: 15px;}
+  p {font-family: "Roboto" ; font-size: 18px; line-height: 2;}
+        
+.grad2 {background-image: linear-gradient(white,#ffe48b, white);}  
+
+/* Cards */
+
+.cardContainer img {width: 100%; text-align: center;}
+
+.grad3 {background-image: linear-gradient(white,#9ED483, white);}  
+.Research {margin-top: 100px;}
+.ResearchImage img {width: 100%; text-align: center;} 
+    
